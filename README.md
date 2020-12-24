@@ -3,7 +3,7 @@
 ### 安装
 
 ```bash
-go get https://github.com/du5/ss5
+go get github.com/du5/ss5
 ```
 
 ### 命令行参数 
